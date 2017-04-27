@@ -1,0 +1,11 @@
+body {
+   padding-top: 70px;
+}
+
+.top-20 {
+	margin-top: 20px;
+}
+
+.error {
+	display: none;
+}
